@@ -612,4 +612,5 @@ body > section {
 }
 .pase-footer p:hover {
   background-color: rgb(86.8636363636, 34.8939393939, 112.1060606061);
+  transform: scale(0.8);
 }
